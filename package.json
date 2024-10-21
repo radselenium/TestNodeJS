@@ -1,22 +1,11 @@
 {
-  "name": "package",
+  "name": "nodesample",
   "version": "1.0.0",
-  "description": "Test",
+  "description": "test",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/radselenium/TestNodeJS.git#main"
-  },
-  "keywords": [
-    "Test"
-  ],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/radselenium/TestNodeJS/issues"
-  },
-  "homepage": "https://github.com/radselenium/TestNodeJS/tree/main#readme"
+  "license": "ISC"
 }
